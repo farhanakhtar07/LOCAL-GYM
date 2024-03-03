@@ -1,0 +1,88 @@
+
+        body{
+            color: white;
+            margin: 0px;
+            padding: 0px;
+            background: url(gym.jpeg);
+        }
+        .left{
+            display: inline-block;
+            position: absolute;
+            left: 20px;
+            top: 20px;
+        }
+        .left img{
+            width: 105px;
+            
+        }
+        .name{
+            color: rgb(239, 230, 208);
+        }
+        .mid{
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            display: block;
+            width: 40%;
+            margin: 20px auto;
+            
+        }
+        .right{
+            position: absolute;
+            display: inline-block;
+            right: 10px;
+            top: 20px;
+        }
+        .navbar{
+            display: inline-block;
+        }
+        .navbar li{
+            display: inline-block;
+            font-size: 20px;
+        }
+        .navbar li a{
+            color: white;
+            text-decoration: none;
+            padding: 6px 7px;
+        }
+        .navbar li a:hover{
+            color: grey;
+        }
+    .btn{
+        margin: 16px 20px;
+        background-color: black;
+        color: white;
+        padding: 4px 8px;
+        border-radius: 10px;
+        font-size: 13px;
+        cursor: pointer;
+    }
+    .btn:hover{
+        background-color: grey;
+    }
+    .container{
+        margin: 100px 94px;
+        padding: 37px;
+        display: inline-block;
+    }
+    .container{   
+    color: white;
+    font-size: large;
+    border-radius: 65px;
+    margin: 154px 138px;
+    padding: 38px 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    .container h1{
+        font-size: larger;
+        font-style: italic;
+        color: white;
+    }
+    .gymform{
+        padding: 13px;
+        margin:-12px;
+        text-align: center;
+    }
+    .container .done{
+        padding: 0px 13px;
+        margin: 1px 23px;
+    }
